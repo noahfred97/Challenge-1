@@ -1,1 +1,3 @@
-# Challenge-1
+# Challenge 1 - Code Refractor
+
+**In this project, I have approached the goal of refactoring previously non-semantic code that contained a large amount of vague identifiers into a working edited and more professional rendition of itself so that other coders or those who inspect elements of the code can easily find and discern the different sections of the clients website. This is accomplished by labeling each section of the page relative to it's position and purpose on the page, after refactoring the code, other users should be able to easily find all elements they are looking to observe or change within this document!**
